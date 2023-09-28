@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/ichin23/loja_fullstack_ts.git
